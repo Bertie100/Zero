@@ -1,6 +1,6 @@
 # Zero
 
-ZeroScript is a general-purpose programming language designed to be fast, simple, and universal. It can be used to build almost anything — from automations and apps to games and logic systems.
+Zero is a general-purpose programming language designed to be fast, simple, and universal. It can be used to build almost anything — from automations and apps to games and logic systems.
 
 This language avoids unnecessary complexity and uses readable, friendly syntax made for both beginners and power users.
 
@@ -11,7 +11,7 @@ This language avoids unnecessary complexity and uses readable, friendly syntax m
 
 ## Overview
 
-ZeroScript is not a clone of Python or JavaScript. It’s a standalone language with:
+Zero is not a clone of Python or JavaScript. It’s a standalone language with:
 
 - Clean syntax (no cryptic symbols)
 - Instant execution using its own interpreter
@@ -48,19 +48,13 @@ else:
 
 ## How to Run
 
-You’ll be able to run ZeroScript like this:
+You’ll be able to run Zero like this:
 
 ```
     zero file.zs
 ```
 
 This will use the native ZeroScript CLI tool.
-
----
-
-## Project Status
-
-ZeroScript is in early development. It already supports basic logic, variables, and screen output. More powerful built-in features and tools are planned for upcoming versions.
 
 ---
 
